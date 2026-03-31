@@ -1,4 +1,4 @@
-# SpatialFilter on FPGA
+# Spatial Filter on FPGA
 
 Hardware image processing pipeline for **Xilinx Zynq** that performs streaming **3x3 spatial filtering** on a grayscale `512 x 512` image.
 
